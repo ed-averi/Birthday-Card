@@ -1,4 +1,4 @@
-This is a fund project that I did for a friend.
+This is a fun project that I did for a friend.
 
 Screenshots of this project can be found below:
 
